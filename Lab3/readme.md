@@ -7,3 +7,14 @@
 3. built rest apis
 4. non blocking I/O
 5. foundation of Express.js
+6. npm -> node package manager. 
+node pr4.js 
+ nodemon install ->  npm i nodemon -D.
+ ## http status course 
+ -200-> Ok
+ - 201-> Created
+ - 400 -> Bad request
+- 401  ->   unauthorized
+- 403  -> forbidden
+ -404 ->not found 
+ -500 ->Internal server error
