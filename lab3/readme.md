@@ -18,3 +18,13 @@ node pr4.js
 - 403  -> forbidden
  -404 ->not found 
  -500 ->Internal server error
+ - server can sync to the client 
+ 1. html file -> prg1, prg2, prg3
+ 2. json data -> prg5
+ 3. plain file  -> prg4
+ 4. js   file
+ 5. any file to download
+ 7.etc
+
+ ## type of information -> res.writehead(),  res.setHeader()
+ 1. text/html -> 
