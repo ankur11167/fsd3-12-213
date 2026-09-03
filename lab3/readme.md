@@ -28,3 +28,4 @@ node pr4.js
 
  ## type of information -> res.writehead(),  res.setHeader()
  1. text/html -> 
+ 2. text/json, application ->
