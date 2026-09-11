@@ -29,3 +29,59 @@ node pr4.js
  ## type of information -> res.writehead(),  res.setHeader()
  1. text/html -> 
  2. text/json, application ->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## content type 
+
+
+1.res.writeHead
+2.res.setHeader
+3.res.statuscode
+
+## send html file to client 
+
+1. html file
+
+-read html file using createReadstream
+-pipe it with res object 
+
+2. html content 
+send any html tags/content by using 
+res.end(',any html tag')
+
+## JSON
+JSON always store data in key value pair in closed by {} array csn be stored by [] one pair of {} will represent one object and 
+its property will be seperated by , 
+
+{
+    id:1;
+    name:'Mobile',
+    price:'25000',
+    rating:'4.5',
+    review:'200'
+}
+
