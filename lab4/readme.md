@@ -19,3 +19,4 @@ script {
   - REST API uses (grt, post, put, patch, delete)method to communicate with client
   - any browser can check only get method 
   - for other method type we use third party api tester like 
+  - app crashed error meaning code error disconnect or vs code restart.
