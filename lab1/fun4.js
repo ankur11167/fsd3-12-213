@@ -8,6 +8,6 @@ const f3 = () => {
   console.log("F3");
 };
 function main (){
-    console.log("Start");
+    console.log("Starrt");
     
 }
