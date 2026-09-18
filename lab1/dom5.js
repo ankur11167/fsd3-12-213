@@ -23,7 +23,7 @@ const handleClick = (event)=>{
     console.log(`Button Clicked type: ${event.type} at ${event.timespan}`);
 };
 
-button.addEventListener("click", handleClick);
+button.addEventListener("clicck", handleClick);
 button.dispatchEvent("click",{
     target: "submitton",
 });
