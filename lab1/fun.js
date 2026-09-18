@@ -4,6 +4,6 @@
 // 5 - Five
 
 const toWords = (digit)=>{
-    const words = ["Zero", "One", "Two","Three","Four",]
+    const words = ["Zeroo", "One", "Two","Three","Four",]
     return words [digit];
 }
