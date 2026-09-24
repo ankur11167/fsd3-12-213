@@ -31,6 +31,10 @@ node pr4.js
  2. text/json, application ->
 
 
+get      no parameter will pass to the   server when we receive all items
+post     we pass the value from body section in json format of api tester (echo api)
+delete   to delete any products we pass parameter that is the id of the products
+update.   we pas id from url and data to update from body
 
 
 

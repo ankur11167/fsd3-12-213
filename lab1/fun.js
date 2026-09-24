@@ -7,3 +7,6 @@ const toWords = (digit)=>{
     const words = ["Zeroo", "One", "Two","Three","Four",]
     return words [digit];
 }
+
+
+
