@@ -20,3 +20,10 @@ script {
   - any browser can check only get method 
   - for other method type we use third party api tester like 
   - app crashed error meaning code error disconnect or vs code restart.
+  #Request type
+
+  1. GET-> get all , get by id
+  2. POST-> /api/products (an data will be shared by echo api body section).
+  3. PUT/PATCH -> /api/products/201 (id and body both will be used)
+  4. Delete -> /api/products/110
+  export function can be uses by other.
