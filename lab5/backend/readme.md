@@ -34,4 +34,7 @@ app.get("/", (req, res) =>{
 });
 
 // this line must be last line 
-app.listen(4444, () => console.log("prg1 is running at 4444"));
+app.listen(4444, () => console.log("prg1 is running at 4444"));```
+13. in express we can  add any html static html pages with the help of express.static link
+14. express supports middleware, when we have to execute some function before server execution
+app.use always apply any middleware.
